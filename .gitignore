@@ -1,0 +1,25 @@
+# Bazel outputs
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+bazel-external/
+
+# Bazel cache and build outputs
+bazel-*
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Apix CLI metadata folder
+.apix/
